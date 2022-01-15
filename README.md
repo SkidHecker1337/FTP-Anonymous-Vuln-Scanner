@@ -6,5 +6,17 @@ pip3 install time,
 pip3 install ftplib,
 pip3 install sys ,
 pip3 install pyfiglet,
-
-# Note : I'm not resposable for any of your actions. Use the script for education ONLY!
+# Usage:
+# For linux:
+# sudo apt-get update && sudo apt-get upgrade
+# sudo apt-get install python3 
+# sudo apt-get install git
+# git clone https://github.com/SkidHecker1337/FTP-Anonymous-Vuln-Scanner/
+# python3 main.py
+# For termux:
+# pkg update && pkg upgrade
+# pkg install git
+# pkg install python3 or pkg install python
+# git clone https://github.com/SkidHecker1337/FTP-Anonymous-Vuln-Scanner/
+# python3 main.py
+## Note : I'm not resposable for any of your actions. Use the script for education ONLY!
