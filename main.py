@@ -5,7 +5,7 @@ import time
 import pyfiglet
 os.system("clear")
 ascci = pyfiglet.figlet_format("Anonymous login Vuln-Scanner")
-print("Author :")
+print("Author : LostSoul")
 print(ascci)
 user = "anonymous"
 password = ""
